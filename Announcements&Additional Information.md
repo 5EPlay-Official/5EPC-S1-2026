@@ -41,6 +41,6 @@
 		- 5th–8th Place: 4,000 CNY each
 	Supplementary Payout Terms
 		All prize money will be transferred to the designated corporate bank account or team captain’s personal bank account within 1–3 months after the tournament concludes. All relevant taxes incurred from prize winnings shall be borne solely by the awarded teams.
-		Fairness & Eligibility Regulations
-		- The event organizer reserves the right to reject participation applications from any team or player with active VAC bans or a record of verified rule violations.
-		- The complete official rulebook will be released to all registered participants no less than two weeks prior to the tournament kickoff.
+### Fairness & Eligibility Regulations
+	- The event organizer reserves the right to reject participation applications from any team or player with active VAC bans or a record of verified rule violations.
+	- The complete official rulebook will be released to all registered participants no less than two weeks prior to the tournament kickoff.
