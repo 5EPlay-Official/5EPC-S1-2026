@@ -1,4 +1,4 @@
-5EPlay Professional Challenge Season 1
+## 5EPlay Professional Challenge Season 1
 Basic Event Timeline & Information
 Open Registration Period: 00:00 September 7, 2026 – 24:00 September 11, 2026 (Beijing Time)
 Open Qualifier Dates: September 14 – 17, 2026 (Beijing Time)
