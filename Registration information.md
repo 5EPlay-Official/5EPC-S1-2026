@@ -1,5 +1,6 @@
-### Registration infomation
+### Registration Infomation
 
-| register time | Points | Team Name         | Roster                                              |                                                                                                  
-| :- | -: | :- | :- | :- |
-| 2026-8-18 下午02:18:08        |   686 | BORING PLAYERS       | D1zzyg, Jun7, Miszary, tutu, zdr               |
+| 注册时间 | 积分 | 队伍名 | 阵容 |
+|---------|------|--------|------|
+| 2026-8-18 下午02:18:08 | 686 | BoringPlayer |  |
+| 2026-8-18 下午05:23:16 | 830 | Kaleido Gaming |  |
